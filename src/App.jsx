@@ -14,6 +14,9 @@ function App() {
           Olá! Sou apaixonado por tecnologia e desenvolvimento web. Estou sempre buscando aprender novas ferramentas e criar projetos inovadores.
         </p>
       </div>
+      <footer>
+         Meu primeiro Portfólio.
+      </footer>
     </>
   );
 }

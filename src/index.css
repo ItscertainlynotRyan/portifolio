@@ -3,7 +3,7 @@ header {
   color: #f0eeee;
   padding: 20px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 }
 
@@ -28,4 +28,14 @@ header nav a {
 
 header nav a:hover {
   text-decoration: underline;
+}
+
+footer {
+  background: #06343a;
+  color: #f0eeee;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
